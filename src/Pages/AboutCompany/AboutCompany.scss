@@ -1,0 +1,102 @@
+.sects__wrap{
+    background-image: url(src/assets/Imgs/back-lines.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 120px 0;
+}
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 95px;
+
+    &__title{
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 64px;
+        color: #FFFFFF;
+        margin-bottom: 20px;
+    }
+    &__text{
+        width: 570px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 140%;
+        color: rgba(255, 255, 255, 0.8);
+    }
+    &__list{
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 60px 120px;
+    }
+    &__item{
+        display: flex;
+        flex-direction: column;
+    }
+    &__num{
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 100%;
+        text-align: center;
+        background: linear-gradient(109.09deg, rgba(0, 40, 248, 0.89) 0%, #6911AD 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    &__desc{
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+}
+.advantages{
+    &__title{
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-bottom: 40px;
+    }
+    &__list{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    &__item{
+        background: rgba(17, 19, 23, 0.5);
+        border: 1px solid #4E4E4E;
+        backdrop-filter: blur(2.5px);
+        border-radius: 20px;
+        padding: 25px;
+    }
+    &__img{
+        display: flex;
+        margin-bottom: 30px;
+    }
+    &__text{
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+    &__line{
+        width: 50px;
+        height: 3px;
+        background: #686464;
+        border: none;
+        border-radius: 20px;
+        margin: 10px 0 15px;
+    }
+    &__desc{
+        width: 360px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+        color: #FFFFFF;
+    }
+}

@@ -1,0 +1,58 @@
+.portfolio{
+    background-image: url(src/assets/Imgs/bg-portfolio.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 120px 0;
+
+    &__title{
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+        color: #FFFFFF;
+        margin-bottom: 40px;
+    }
+    &__list{
+        width: 800px;
+        height: 55px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: rgba(17, 19, 23, 0.5);
+        border: 1px solid #4E4E4E;
+        backdrop-filter: blur(2px);
+        border-radius: 90px;
+        margin-bottom: 40px;
+    }
+    &__btn{
+        font-family: 'Nunito', normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        color: #FFFFFF;
+        background-color: initial;
+        border: none;
+        padding: 17px 46px;
+        cursor: pointer;
+    }
+    &__btn:focus{
+        background: linear-gradient(93.5deg, #1E11AD 12.37%, rgba(105, 17, 173, 0.95) 85.28%);
+        border-radius: 30px;
+    }
+    &__imgs-list{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    &__img{
+        width: 410px;
+        display: flex;
+        border-radius: 20px;
+    }
+    &__img:hover{
+        box-shadow: 1px 1px 10px #FFFFFF;
+        cursor: pointer;
+    }
+}

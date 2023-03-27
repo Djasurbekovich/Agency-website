@@ -1,0 +1,60 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_0_48)">
+<path d="M68 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M168 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M268 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M368 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M468 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M568 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M668 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M768 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M868 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M968 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M1068 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M1168 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M1268 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M1368 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M1468 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M1568 0V900" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M-26 100.773L1574 100.773" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M-26 0.772569L1574 0.772461" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M-26 200.773H1574" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M-26 300.773H1574" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M-26 400.773H1574" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M-26 500.773H1574" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M-26 600.773H1574" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M-26 700.773H1574" stroke="#444444" stroke-opacity="0.2"/>
+<path d="M-26 800.773H1574" stroke="#444444" stroke-opacity="0.2"/>
+<g opacity="0.5" filter="url(#filter0_f_0_48)">
+<path d="M1167.47 -14.8568C1286.89 -41.6645 1307.15 -35.6794 1562.77 -260.858C1813.07 15.2512 1504.79 96.2107 1542.16 274.549C1523.48 657.139 1476.28 278.948 1364.09 225.11C1207.52 313.786 1093.59 139.103 1167.47 -14.8568Z" fill="url(#paint0_linear_0_48)"/>
+</g>
+<g opacity="0.5" filter="url(#filter1_f_0_48)">
+<path d="M1022.24 959.352C789.435 910.719 743.126 891.301 353.039 964.989C-349.313 510.946 244.126 624.052 50.8051 410.976C-156.9 17.6367 185.94 448.815 455.644 578.242C726.341 585.288 1077.65 843.882 1022.24 959.352Z" fill="url(#paint1_linear_0_48)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_48" x="944.422" y="-460.857" width="917.249" height="1104.62" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_0_48"/>
+</filter>
+<filter id="filter1_f_0_48" x="-163.016" y="99.1812" width="1341.08" height="1015.81" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="75" result="effect1_foregroundBlur_0_48"/>
+</filter>
+<linearGradient id="paint0_linear_0_48" x1="1685.92" y1="208.937" x2="1259.37" y2="-118.715" gradientUnits="userSpaceOnUse">
+<stop stop-color="#267DFF"/>
+<stop offset="0.555364" stop-color="#ED0080"/>
+<stop offset="1" stop-color="#00FFE0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_48" x1="-207.96" y1="387.75" x2="345.282" y2="1332.93" gradientUnits="userSpaceOnUse">
+<stop stop-color="#267DFF"/>
+<stop offset="0.555364" stop-color="#ED0080"/>
+<stop offset="1" stop-color="#0075FF"/>
+</linearGradient>
+<clipPath id="clip0_0_48">
+<rect width="1600" height="900" fill="white"/>
+</clipPath>
+</defs>
+</svg>

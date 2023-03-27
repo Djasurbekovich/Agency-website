@@ -1,0 +1,67 @@
+.footer{
+    background: rgba(14, 16, 20, 0.9);
+    border-top: 1px solid #4E4E4E;
+    backdrop-filter: blur(1px);
+    border-radius: 20px 20px 0px 0px;
+    padding: 80px 0;
+
+    &__wrap{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    &__logo{
+        font-weight: 600;
+        font-size: 54px;
+        line-height: 66px;
+        letter-spacing: 0.06em;
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+    &__loc-wrap{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    &__icon-map{
+        font-size: 25px;
+        color: #FFFFFF;
+    }
+    &__location{
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    &__tel-box{
+        margin: 22px 0;
+    }
+    &__tel{
+        display: flex;
+        align-items: center;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 19px;
+        letter-spacing: 0.06em;
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+    &__tel:hover{
+        color: #6911AD;
+    }
+    &__tel-icon{
+        margin-right: 10px;
+    }
+    &__sm{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+    &__sm-icon{
+        font-size: 25px;
+        color: #FFFFFF;
+    }
+    &__sm-icon:hover{
+        color: #6911AD;
+    }
+}

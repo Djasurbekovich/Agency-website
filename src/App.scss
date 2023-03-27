@@ -1,0 +1,24 @@
+.container{
+    max-width: 1370px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.btns{
+    width: 170px;
+    height: 45px;
+    font-family: 'Nunito', normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background-color: #6911AD;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.btns:hover{
+    background-color: #6911DA;
+}
+.btns:active{
+    box-shadow: 1px 1px 10px #6911DA;
+}
